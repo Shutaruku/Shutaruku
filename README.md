@@ -4,4 +4,4 @@
 
 <br>
 
-![](https://skillicons.dev/icons?i=go,python,postgres,gcp,docker,github,jenkins,mysql,mongodb,aws,javascript,linux,html,gitlab,java&theme=light&perline=5)
+![](https://skillicons.dev/icons?i=go,python,postgres,gcp,docker,github,jenkins,mysql,mongodb,aws,javascript,linux,postman,html,gitlab,java&theme=light&perline=8)
